@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johannes Ostner's personal homepage"
+title                    : "Johannes Ostner"
 title_separator          : "-"
 name                     : &name "Johannes Ostner"
 description              : &description "PhD student in biostatistics at Helmholtz Munich"
