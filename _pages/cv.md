@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Technical University of Munich, 2017
+* M.S. in Mathematics in Data Science, Technical University of Munich, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Working Student Computational Biology
+  * Helmholtz Munich
+  * Duties included: 
+    * Productive implementation of the statistical model developed in my Master’s thesis
+    * Development of new functions for the scanpy package for scRNA-seq data analysis in Python
+  * Supervisor: Dr. Benjamin Schubert
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2017: Intern/Working Student Data Science
+  * metoda GmbH, Munich
+  * Duties included: 
+    * Data analysis and visualization for determination of time-related correlations 
+    * Optimization of data analysis algorithms
+    * Integration of external data into the company BI
+    * Semantic analysis of product description on Amazon
+  * Supervisor: Jan Heyder
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Statistics and Data analysis
+  * Compositional statistics
+  * Bayesian analysis
+* Machine Learning
+  * Tensorflow
+  * PyTorch
+* Programming
+  * Python
+  * R
+  * SQL
 
 Publications
 ======
@@ -48,12 +57,22 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+<!---
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
-Service and leadership
+Voluntary work
 ======
-* Currently signed in to 43 different slack teams
+* Member of the organization team for the StuStaCulum-Festival 2019-2023:
+  * Communication and project management in a team of over 100 people
+  * Coordination and supervision of up to 20 cashiers at a time
+  * Technical support for cash registers
+  * Bookkeeping duties
+* Club swimming
+  * Certified coach in competitive swimming
+  * Certified judge for swimming competitions
+  * Life guard (DLRG)
