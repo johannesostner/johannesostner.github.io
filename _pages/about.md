@@ -14,6 +14,7 @@ I am a PhD student in biostatistics at Helmholtz Munich and Ludwig-Maximilians-U
 
 My work is focused on statistical methods for compositional analysis of high-throughput amplicon and single-cell data.
 Sepcifically, I am interested in compositional data, differential abundance testing, tree-aggregated analysis, as well as Bayesian and non-Bayesian optimization.
+I am also working on establishing and automating best-practice statistical workflows of scRNA-seq data from eucaryotes and procaryotes.
 
 When I'm not working on biostatistics, I like to spend my time doing all kinds of sports, volunteering as a swimming coach, or organizing the StuStaCulum festival in Munich.
 
