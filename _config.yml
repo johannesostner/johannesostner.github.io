@@ -84,10 +84,10 @@ author:
   avatar           : "cv_picture.png"
   bio              : "PhD student in biostatistics at Helmholtz Munich, working on compositional data analysis"
   location         : "Munich, Germany"
-  employer         : "Helmholtz-Zentrum München"
+  employer         : "Helmholtz Munich"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EOQmriEAAAAJ&hl=en&oi=ao"
-  email            : "johannes.ostner@helmholtz-muenchen.de"
+  email            : "johannes.ostner@online.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/johannes-ostner-1159a019a/"
   orcid            : "https://orcid.org/0000-0002-6448-9437"
   pinterest        :
   soundcloud       :

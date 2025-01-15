@@ -22,3 +22,4 @@ News
 -----
 
 * November 2022: Visiting researcher at *Universtity of Pennsylvania, Philadelphia*, working with Prof. Hongzhe Li
+* December 2024: Submitted PhD Thesis
