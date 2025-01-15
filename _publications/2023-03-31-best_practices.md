@@ -6,9 +6,10 @@ excerpt: 'Recent advances in single-cell technologies have enabled high-throughp
 date: 2023-03-31
 venue: 'Nature reviews. Genetics'
 paperurl: 'https://www.nature.com/articles/s41576-023-00586-w'
-citation: 'Heumos, L., Schaar, A. C., Lance, C., Litinetskaya, A., Drost, F., Zappia, L., et al. (2023). "Best practices for single-cell analysis across modalities". <i>Nat. Rev. Genet.</i>, 1–23.'
+citation: 'Heumos, L., Schaar, A. C., Lance, C., Litinetskaya, A., Drost, F., Zappia, L., et al. (2023). &quot;Best practices for single-cell analysis across modalities&quot;. <i>Nat. Rev. Genet.</i>, 1–23.'
 ---
 Recent advances in single-cell technologies have enabled high-throughput molecular profiling of cells across modalities and locations. Single-cell transcriptomics data can now be complemented by chromatin accessibility, surface protein expression, adaptive immune receptor repertoire profiling and spatial information. The increasing availability of single-cell data across modalities has motivated the development of novel computational methods to help analysts derive biological insights. As the field grows, it becomes increasingly difficult to navigate the vast landscape of tools and analysis steps. Here, we summarize independent benchmarking studies of unimodal and multimodal single-cell analysis across modalities to suggest comprehensive best-practice workflows for the most common analysis steps. Where independent benchmarks are not available, we review and contrast popular methods. Our article serves as an entry point for novices in the field of single-cell (multi-)omic analysis and guides advanced users to the most recent best practices.
+
 [Download paper here](https://www.nature.com/articles/s41576-023-00586-w)
 
 Recommended citation: Heumos, L., Schaar, A. C., Lance, C., Litinetskaya, A., Drost, F., Zappia, L., et al. (2023). "Best practices for single-cell analysis across modalities". <i>Nat. Rev. Genet.</i>, 1–23.
