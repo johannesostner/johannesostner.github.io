@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johannes Ostner"
+  name             : "Dr. Johannes Ostner"
   avatar           : "cv_picture.png"
-  bio              : "PhD student in biostatistics at Helmholtz Munich, working on compositional data analysis"
-  location         : "Munich, Germany"
-  employer         : "Helmholtz Munich"
+  bio              : "CMC Statistician at Boehringer Ingelheim"
+  location         : "Biberach, Germany"
+  employer         : "Boehringer Ingelheim"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=EOQmriEAAAAJ&hl=en&oi=ao"
   email            : "johannes.ostner@online.de"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JohannesOstner"
+  twitter          :
   vine             :
   weibo            :
   xing             :

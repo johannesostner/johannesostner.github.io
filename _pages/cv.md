@@ -17,7 +17,15 @@ Education
 Work experience
 ======
 
-* 2020-2024: PhD student
+* 2025-current: CMC Statistician
+  * Boehringer Ingelheim
+  * Duties included:
+    * Extension and application of Bayesian methods for uncertainty quantification in bioprocess development based on historical data
+      * Implementation and restructuring of statistical software packages in R to improve applicability to new projects
+      * Collaboration with biomedical researchers to create statistical analyses and evaluations for bioprocess development
+
+
+* 2020-2025: PhD student
   * Helmholtz Munich
   * LMU Munich
   * Duties included: 
@@ -97,7 +105,7 @@ Teaching
   
 Voluntary work
 ======
-* Member of the organization team for the StuStaCulum-Festival 2019-2024:
+* Member of the organization team for the StuStaCulum-Festival 2019-2026:
   * Communication and project management in a team of over 100 people
   * Coordination, supervision and technical support of up to 20 cashiers at a time
   * Technical support for cash registers
